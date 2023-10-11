@@ -1,0 +1,60 @@
+[*********************100%***********************]  1 of 1 completed
+-------------
+Days to expriation:  64   Current Stock Price:  191.00999450683594   Strike Price:  165.0   Option Price:  27.77   Orignal Implied Volatility:  33.42351733398438
+Calculated Implied Volatility: 29.88%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.00999450683594   Strike Price:  170.0   Option Price:  23.15   Orignal Implied Volatility:  30.170376037597656
+Calculated Implied Volatility: 27.62%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.00999450683594   Strike Price:  175.0   Option Price:  18.59   Orignal Implied Volatility:  28.479719116210934
+Calculated Implied Volatility: 25.02%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.00999450683594   Strike Price:  180.0   Option Price:  14.77   Orignal Implied Volatility:  26.068854553222653
+Calculated Implied Volatility: 24.71%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.00999450683594   Strike Price:  185.0   Option Price:  11.1   Orignal Implied Volatility:  24.414818359375
+Calculated Implied Volatility: 23.45%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.0050048828125   Strike Price:  190.0   Option Price:  7.75   Orignal Implied Volatility:  22.87064434814453
+Calculated Implied Volatility: 21.81%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.0050048828125   Strike Price:  195.0   Option Price:  5.05   Orignal Implied Volatility:  21.43633251953125
+Calculated Implied Volatility: 20.55%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.00999450683594   Strike Price:  200.0   Option Price:  3.1   Orignal Implied Volatility:  20.2156416015625
+Calculated Implied Volatility: 19.76%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.0050048828125   Strike Price:  205.0   Option Price:  1.69   Orignal Implied Volatility:  19.44660632324219
+Calculated Implied Volatility: 18.84%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.0050048828125   Strike Price:  210.0   Option Price:  0.93   Orignal Implied Volatility:  18.90950231933594
+Calculated Implied Volatility: 18.70%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.0050048828125   Strike Price:  220.0   Option Price:  0.28   Orignal Implied Volatility:  19.4343994140625
+Calculated Implied Volatility: 19.12%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.0   Strike Price:  230.0   Option Price:  0.11   Orignal Implied Volatility:  20.948056152343746
+Calculated Implied Volatility: 20.58%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.00999450683594   Strike Price:  240.0   Option Price:  0.07   Orignal Implied Volatility:  23.242955078125
+Calculated Implied Volatility: 23.12%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.00999450683594   Strike Price:  250.0   Option Price:  0.04   Orignal Implied Volatility:  25.6843369140625
+Calculated Implied Volatility: 24.99%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.0   Strike Price:  260.0   Option Price:  0.03   Orignal Implied Volatility:  27.3444765625
+Calculated Implied Volatility: 27.34%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.0   Strike Price:  270.0   Option Price:  0.02   Orignal Implied Volatility:  29.10227148437499
+Calculated Implied Volatility: 29.11%
+--------------------------------
+Days to expriation:  66   Current Stock Price:  191.0050048828125   Strike Price:  280.0   Option Price:  0.02   Orignal Implied Volatility:  31.836619140624993
+Calculated Implied Volatility: 31.34%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.0   Strike Price:  290.0   Option Price:  0.01   Orignal Implied Volatility:  32.422550781249996
+Calculated Implied Volatility: 32.41%
+--------------------------------
+Days to expriation:  64   Current Stock Price:  191.0050048828125   Strike Price:  300.0   Option Price:  0.01   Orignal Implied Volatility:  34.76627734375
+Calculated Implied Volatility: 34.78%
+--------------------------------
+Mean Absolute Error 0.9017858766729264 %
